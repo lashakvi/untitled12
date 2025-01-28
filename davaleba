@@ -1,0 +1,54 @@
+
+// let hour = 12;
+// let isWeekend = true;
+
+// if (hour < 10 || hour > 18 || isWeekend) {
+//   alert( 'The office is closed.' );
+// }
+
+
+// let hour = 12;
+// let isWeekend = false;
+
+// if (hour < 10 || hour > 18 || isWeekend) {
+//   alert( 'The office is closed.' ); 
+// } else {
+//   alert( 'The office is open.' ); 
+// }
+
+
+// let userInput = "Alice"; 
+// let displayName = userInput || "Guest";
+
+// console.log("Welcome,", displayName);
+
+
+// let userInput = ""; 
+// let displayName = userInput || "Guest";
+
+// console.log("Welcome,", displayName);
+
+// let hasUsername = true; 
+// let hasPassword = true;
+// let isLocked = false;   
+
+// let canLogin;
+
+// if (hasUsername && hasPassword && !isLocked) {
+//   console.log("მომხმარებლის შესვლა ნებადართულია" );
+// } else {
+//   console.log("მომხმარებლის დაშვება უარყოფილია ");
+// }
+
+
+// let hour = 13;
+// let minute = 30;
+
+// if (hour == 12 && minute == 30) {
+//   alert( 'The time is 12:30' );
+// }
+// else {
+//     alert("it's the wrong time.");
+//     }
+
+
